@@ -1,3 +1,6 @@
+-- Schema and Views created on Synapse for Gold layer and final dashboard in Power BI
+
+
 CREATE SCHEMA gold;
 
 -- CREATE VIEW FOR CALENDAR
